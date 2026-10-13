@@ -1,50 +1,59 @@
-# Hi, I'm Mahesh 👋
+# Hi, I'm Mahesh
 
-I'm a Graduate Software Engineer based in the UK with an MSc in Advanced Computer Science with Industry from the University of Leicester and 11 months of UK software engineering placement experience.
+I'm a Graduate Software Engineer based in Leicester, UK, with an **MSc in Advanced Computer Science with Industry (Merit)** from the University of Leicester and **11 months of UK placement experience** at DKRIN.
 
-I'm particularly interested in **Full-Stack Development, Backend Engineering and Applied AI**, with a focus on building reliable software and AI-enabled applications.
+My focus is **full-stack development, Python backend engineering and applied AI**.
 
-## 💻 Technical Skills
+## Featured projects
 
-**Languages:** Python, JavaScript, SQL  
-**Frontend:** React.js, HTML, CSS  
-**Backend & APIs:** Node.js, REST APIs, HTTP, JSON  
-**AI & Data:** OpenAI API, LLMs, Conversational AI, Streamlit, pandas, SQLite  
-**Testing & Tools:** pytest, Postman, Git, GitHub  
-**Cloud:** Microsoft Azure
+### [Document Ingestion Pipeline](https://github.com/mahesh-chinthakani/document-ingestion-pipeline)
 
-## 🚀 Featured Project
+A full-stack technical project using **React, TypeScript, Python, FastAPI and SQLite**.
 
-### Trust-Aware Conversational AI System
+* PDF/DOCX uploads, processing-status polling and extracted-content display.
+* Background processing, UUID tracking and persistence of ordered text chunks.
+* Modular extractors with a mocked OCR fallback.
+* Eight pytest tests covering extractor selection, routing, unsupported uploads and the health endpoint.
 
-A conversational AI system comparing baseline and trust-enhanced LLM responses using external evidence retrieval, lightweight claim validation, confidence scoring and transparency information.
+A local implementation with documented production limitations.
 
-**Technologies:** Python, Streamlit, OpenAI API, Wikipedia, pandas, pytest
+### [Trust-Aware Conversational AI System](https://github.com/mahesh-chinthakani/trust-aware-conversational-ai)
 
-[View Project](https://github.com/mahesh-chinthakani/trust-aware-conversational-ai)
+An MSc project using **Python, Streamlit, OpenAI and Wikipedia APIs, SQLite, pandas and pytest**.
 
-## 🌱 Currently Developing
+* Baseline and trust-enhanced chatbot configurations.
+* External evidence retrieval, heuristic claim validation and confidence messaging.
+* CSV/SQLite logging and analysis using pandas and Matplotlib.
+* Evaluation using 20 controlled prompts and automated checks for four evidence scenarios.
 
-I'm currently strengthening my skills in:
+Evaluation did not include a real-user study. Heuristic validation and reliance on one evidence source are documented limitations.
 
-- TypeScript
-- FastAPI
-- PostgreSQL
-- Docker
-- CI/CD
-- Production AI application development
+## Technical skills
 
-## 🎯 Areas of Interest
+* **Languages:** Python, TypeScript, JavaScript, SQL, C
+* **Frontend:** React, HTML, CSS, Streamlit
+* **Backend:** FastAPI, Flask, Node.js, REST APIs
+* **Databases:** SQLite, Azure SQL, MongoDB, Redis
+* **AI and data:** OpenAI API, conversational AI, pandas, Matplotlib
+* **Tools:** pytest, Postman, Git, GitHub, Docker
+* **Cloud:** Academic exposure to AWS and Kubernetes
 
-- Software Engineering
-- Full-Stack Development
-- Backend Engineering
-- Applied AI
-- LLM Applications
+## Professional experience
 
-## 📫 Connect With Me
+**Software Engineer Intern — DKRIN | February 2025–January 2026**
+
+Form-field validation changes, REST API testing, backend troubleshooting, database validation and technical documentation.
+
+## Academic architecture work
+
+Designed the architecture for a collaborative whiteboard using React, Node.js, Socket.IO and Redis, specifying AWS EKS/Kubernetes components and explaining technical trade-offs.
+
+## Connect
+
+I'm interested in graduate and junior software engineering, full-stack, backend and applied AI opportunities across the UK.
 
 [LinkedIn](https://www.linkedin.com/in/mahesh-chinthakani-0245a9222)
+
 
 <!--
 **mahesh-chinthakani/mahesh-chinthakani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
